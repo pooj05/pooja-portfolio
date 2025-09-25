@@ -84,7 +84,7 @@ const About = () => {
         >
           {/* Download Resume */}
           <a
-            href="/src/assets/resume.pdf" // Replace with your resume path
+            href="/resume.pdf" // Replace with your resume path
             download
             className="flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-full shadow-lg hover:bg-blue-700 transition-colors duration-300 font-medium"
           >
@@ -93,7 +93,7 @@ const About = () => {
 
           {/* View Resume */}
           <a
-            href="/src/assets/resume.pdf" // Replace with your resume path
+            href="/resume.pdf" // Replace with your resume path
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 px-6 py-3 rounded-full shadow-lg hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors duration-300 font-medium"
