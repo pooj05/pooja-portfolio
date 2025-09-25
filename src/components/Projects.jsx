@@ -8,28 +8,28 @@ const Projects = () => {
       tech: 'MERN',
       description: 'Full-featured travel booking app with secure auth, image uploads, payment mock integration, and scalable REST APIs.',
       link: '#',
-      image: '/src/assets/wanderlust.png'
+      image: 'src/assets/wanderlust.png'
     },
     {
       title: 'Trading Dashboard',
       tech: 'React + Node',
       description: 'Real-time charting with WebSockets, backend microservices, and deployment with Docker & AWS.',
       link: '#',
-      image: '/src/assets/trade.png'
+      image: 'src/assets/trade.png'
     },
     {
       title: 'Music and Movie Recommendation',
       tech: 'MERN',
       description: "A chill indie playlist paired with a heartwarming feel-good movie for the perfect cozy night.",
       link: '#',
-      image: '/src/assets/music.png'
+      image: 'src/assets/music.png'
     },
     {
       title: 'Coffee Shop Website',
       tech: 'Html+CSS+Javascript+React.js',
       description: 'A warm and inviting coffee shop website that blends rich visuals, easy navigation, and the aroma of freshly brewed experiences',
       link: '#',
-      image: '/src/assets/coffee.png'
+      image: 'src/assets/coffee.png'
     }
   ];
 

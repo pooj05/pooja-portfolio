@@ -9,7 +9,7 @@ const Hero = () => {
         Full Stack Developer | React | Node.js | ML Developer
       </motion.p>
       <motion.img 
-        src="/src/assets/pooja.jpg" 
+        src="src/assets/pooja.jpg" 
         alt="Pooja Kansari" 
         className="w-64 h-64 object-cover shadow-xl border-4 border-white rounded-full" 
         initial={{ scale: 0, rotate: -15, opacity: 0 }} 
